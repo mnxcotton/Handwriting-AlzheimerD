@@ -1,2 +1,2 @@
 # Handwriting-AlzheimerD
-Using Machine Learning methods to detect Alzheimer's Disease from handwriting tasks.
+Using machine-learning methods to detect Alzheimer's Disease from handwriting tasks.
