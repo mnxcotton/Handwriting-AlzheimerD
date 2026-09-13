@@ -4,7 +4,7 @@ This project used the DARWIN dataset and applied multiple machine learning algor
 to determine which handwriting tasks were most important in predicting Alzheimer's disease.
 
 ## Deliverables: 
-Visualizations attached. Code provided upon request.
+Visualizations attached in repository. Code provided upon request.
 
 ## Results: 
 Among the five evaluated prediction models, random forest achieved the best overall predictive performance with 
