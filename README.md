@@ -1,6 +1,6 @@
 # Predicting Alzheimer's Disease with Handwriting Analysis
 
-This academic project used the DARWIN dataset and applied multiple machine learning algorithms 
+This academic project used the Diagnosis AlzheimeR WIth haNdwriting (DARWIN) dataset and applied multiple machine learning algorithms 
 to determine which handwriting tasks were most important in predicting Alzheimer's disease.
 
 ## Deliverables: 
